@@ -78,13 +78,12 @@ export default function Index() {
             <h2 className="text-4xl md:text-5xl font-heading font-bold mb-6">
               «Что было дальше?» — главный хит вашего праздника
             </h2>
-            <div className="bg-muted/30 rounded-2xl p-8 mb-6 border border-border">
-              <div className="aspect-video flex items-center justify-center text-muted-foreground">
-                <div className="text-center">
-                  <Icon name="Play" size={64} className="mx-auto mb-4" />
-                  <p className="text-lg">Здесь будет демо-видео</p>
-                </div>
-              </div>
+            <div className="mb-12">
+              <img 
+                src="https://cdn.poehali.dev/projects/3a157056-02a4-4e2c-befc-18cf81d2c765/files/b50a08af-af3a-4dd6-9273-367b825f9473.jpg"
+                alt="Превращение старого фото в яркое видео с помощью ИИ"
+                className="w-full max-w-4xl mx-auto rounded-2xl shadow-2xl border-2 border-primary/20 hover-scale"
+              />
             </div>
             <p className="text-xl text-foreground/90 leading-relaxed max-w-4xl mx-auto">
               Мы берем ваши старые фотографии и с помощью искусственного интеллекта создаем короткие видео с неожиданным и уморительным продолжением. Гости угадывают, «что было дальше», а вы показываете правду — такую, какой ее видит ИИ!
