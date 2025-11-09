@@ -80,7 +80,7 @@ export default function Index() {
             </h2>
             <div className="mb-12">
               <img 
-                src="https://cdn.poehali.dev/projects/3a157056-02a4-4e2c-befc-18cf81d2c765/files/69cd74e5-853b-4a1f-aa02-5f06440d69ab.jpg"
+                src="https://cdn.poehali.dev/projects/3a157056-02a4-4e2c-befc-18cf81d2c765/files/5e879ae1-07eb-4bfc-9cf0-b79b44f33677.jpg"
                 alt="Превращение старого фото в яркое видео с супергероями и динозаврами"
                 className="w-full max-w-4xl mx-auto rounded-2xl shadow-2xl border-2 border-primary/20 hover-scale"
               />
